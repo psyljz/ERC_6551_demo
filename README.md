@@ -1,18 +1,9 @@
-# Create An ERC-6551 Tokenbound Account with an ERC-721 NFT
 
-## What is ERC-6551 and Tokenbound Accounts (TBA)?
+## 什么是ERC-6551和Tokenbound账户（TBA）？
+ERC-6551为NFTs提供了自己的钱包地址。这意味着您的NFT将能够拥有资产、与应用程序交互并作为独立主体参与其中。
+Tokenbound账户是一种机制，使得NFT可以拥有独立的以太坊账户，从而赋予NFT更多的功能和自治权。
 
-ERC-6551 gives NFTs its own wallet address. This means your NFT will be able to own assets, interact with apps and participate as sovereign agents.
-A tokenbound account is
 
-### What's so great about it?
-- Backward compatability (It requires zero changes to your NFT smart contract)
-- It brings your NFTs to life (finally!)
+## 如何使用这个仓库
 
-Read more about ERC-6551 [here](https://eips.ethereum.org/EIPS/eip-6551)
-
-## How to use this repo
-This repository is used in conjunction with Remix IDE, an instant online editor with a GUI for developing smart contracts.
-
-Simple clone this into a new Remix workspace, compile the contracts, deploy and voila. You're on your way!
-
+只需将其克隆到新的Remix工作区中，编译合约，部署，完成！您就可以开始使用了！
